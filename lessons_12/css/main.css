@@ -1,0 +1,13 @@
+h1 {
+  color: #0000ff;
+  font-size: 31px;
+  text-align: center;
+  display: block;
+}
+.icon {
+  text-align: center;
+}
+.icon img {
+  border: 1px solid #f0012f;
+  margin: 20px;
+}
